@@ -1,0 +1,79 @@
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\bin\Debug\LOGINFORM.exe.config
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\bin\Debug\LOGINFORM.exe
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\bin\Debug\LOGINFORM.pdb
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\bin\Debug\MySql.Data.dll
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.csprojResolveAssemblyReference.cache
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form1.resources
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Properties.Resources.resources
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.csproj.GenerateResource.Cache
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.csproj.CoreCompileInputs.cache
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.exe
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.pdb
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form2.resources
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form3.resources
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form4.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\bin\Debug\LOGINFORM.exe.config
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\bin\Debug\LOGINFORM.exe
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\bin\Debug\LOGINFORM.pdb
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\bin\Debug\MySql.Data.dll
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.csprojResolveAssemblyReference.cache
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form1.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form2.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form3.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form4.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form5.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form6.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form7.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Properties.Resources.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.csproj.GenerateResource.Cache
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.csproj.CoreCompileInputs.cache
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.exe
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.pdb
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.orderItem.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.PrintOptions.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form8.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.test.resources
+C:\Users\彭东宇\Desktop\WindowsFormsApp2\LOGINFORM\obj\Debug\LOGINFORM.Form9.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\bin\Debug\LOGINFORM.exe.config
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.exe
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.pdb
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\bin\Debug\LOGINFORM.exe
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\bin\Debug\LOGINFORM.pdb
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Form2.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Form3.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Form4.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Form5.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Form6.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Form7.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Form8.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Form9.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.orderItem.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.PrintOptions.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.test.resources
+C:\Users\user\Desktop\WindowsFormsApp2 (2)\LOGINFORM\obj\Debug\LOGINFORM.csproj.GenerateResource.Cache
+C:\Users\自行车\Desktop\1\LOGINFORM\bin\Debug\LOGINFORM.exe.config
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.exe
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.pdb
+C:\Users\自行车\Desktop\1\LOGINFORM\bin\Debug\LOGINFORM.exe
+C:\Users\自行车\Desktop\1\LOGINFORM\bin\Debug\LOGINFORM.pdb
+C:\Users\自行车\Desktop\1\LOGINFORM\bin\Debug\MySql.Data.dll
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.csprojResolveAssemblyReference.cache
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form1.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form10.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form2.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form3.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form4.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form5.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form6.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form7.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form8.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Form9.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.orderItem.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.PrintOptions.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.Properties.Resources.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.test.resources
+C:\Users\自行车\Desktop\1\LOGINFORM\obj\Debug\LOGINFORM.csproj.GenerateResource.Cache

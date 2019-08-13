@@ -1,0 +1,13 @@
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SHOP.csprojResolveAssemblyReference.cache
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SHOP.csproj.GenerateResource.Cache
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SHOP.csproj.CoreCompileInputs.cache
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\彭东宇\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
